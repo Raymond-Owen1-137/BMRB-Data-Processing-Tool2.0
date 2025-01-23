@@ -1,0 +1,444 @@
+
+
+R1	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	A 0.31   N 0.25   D 0.12   C 0.06   L 0.05   P 0.05   M 0.04   R 0.02   Q 0.01   K 0.01   Y 0.01   F 0.01   
+
+	C Shift Assignments>> 	CA :: 52	
+	Ave C Shift Values>> 	C :: 176.49(2.16) 	CA :: 56.95(2.41) 	CB :: 30.66(1.77) 	CG :: 27.31(1.65) 	CD :: 43.1(1.1) 	CZ :: 159.01(0.87)
+
+P2	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	P 0.96   C 0.03   
+
+	C Shift Assignments>> 	CA :: 62	 	CD :: 50	
+	Ave C Shift Values>> 	C :: 176.7(1.69) 	CA :: 63.3(1.64) 	CB :: 31.81(1.54) 	CG :: 27.14(1.18) 	CD :: 50.28(1.04)
+
+D3	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	M 0.13   L 0.12   Q 0.1   K 0.09   R 0.09   C 0.09   E 0.07   D 0.06   Y 0.06   F 0.05   S 0.03   N 0.02   A 0.02   
+
+	C Shift Assignments>> 	CA :: 56	
+	Ave C Shift Values>> 	C :: 176.41(1.77) 	CA :: 54.52(2.1) 	CB :: 40.7(1.67) 	CG :: 178.41(1.84)
+
+F4	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	F 0.99   
+
+	C Shift Assignments>> 	CD1 :: 131.5	 	CD2 :: 131.5	 	CE1 :: 131	 	CE2 :: 131	 	CZ :: 129	
+	Ave C Shift Values>> 	C :: 175.49(2.13) 	CA :: 58.25(2.73) 	CB :: 39.95(2.04) 	CG :: 138.35(1.12) 	CD1 :: 131.38(1.38) 	CD2 :: 131.33(1.48)
+			 	CE1 :: 130.48(1.29) 	CE2 :: 130.6(0.97) 	CZ :: 129.11(1.68)
+
+C5	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	Q 0.12   M 0.11   K 0.11   R 0.1   C 0.09   L 0.08   E 0.08   Y 0.07   F 0.06   D 0.04   S 0.04   N 0.01   A 0.01   
+
+	C Shift Assignments>> 	CA :: 56.5	
+	Ave C Shift Values>> 	C :: 174.78(1.99) 	CA :: 57.43(3.41) 	CB :: 34.15(6.77)
+
+L6	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	L 0.45   A 0.28   C 0.26   
+
+	C Shift Assignments>> 	CA :: 53	 	CG :: 26.5	 	CD1 :: 22	 	CD2 :: 23.5	
+	Ave C Shift Values>> 	C :: 176.97(2.09) 	CA :: 55.65(2.21) 	CB :: 42.37(1.86) 	CG :: 26.77(1.25) 	CD1 :: 24.73(1.71) 	CD2 :: 24.1(1.78)
+
+E7	Overall: Consistent 	Typing: Indeterminable 	SRO: Consistent 	C Shifts: Indeterminable 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+
+P8	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	P 0.6   C 0.33   G 0.05   
+
+	C Shift Assignments>> 	CA :: 60.5	 	CD :: 49	
+	Ave C Shift Values>> 	C :: 176.7(1.69) 	CA :: 63.3(1.64) 	CB :: 31.81(1.54) 	CG :: 27.14(1.18) 	CD :: 50.28(1.04)
+
+P9	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	C 0.49   K 0.31   R 0.06   V 0.06   L 0.04   P 0.01   
+
+	C Shift Assignments>> 	CA :: 61.5	 	CB :: 28.5	 	CG :: 24.5	
+	Ave C Shift Values>> 	C :: 176.7(1.69) 	CA :: 63.3(1.64) 	CB :: 31.81(1.54) 	CG :: 27.14(1.18) 	CD :: 50.28(1.04)
+
+Y10	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	Y 0.99   
+
+	C Shift Assignments>> 	CA :: 55	 	CD1 :: 133.5	 	CD2 :: 133.5	 	CE1 :: 118.5	 	CE2 :: 118.5	
+	Ave C Shift Values>> 	C :: 175.39(1.89) 	CA :: 58.02(2.64) 	CB :: 39.16(2.23) 	CG :: 129.29(1.21) 	CD1 :: 132.54(1.35) 	CD2 :: 132.26(1.99)
+			 	CE1 :: 117.81(2.09) 	CE2 :: 117.91(2.6) 	CZ :: 156.37(2.5)
+
+T11	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	T 0.98   C 0.01   
+
+	C Shift Assignments>> 	CA :: 65.5	 	CB :: 69	 	CG2 :: 20	
+	Ave C Shift Values>> 	C :: 174.6(1.8) 	CA :: 62.15(2.72) 	CB :: 69.64(1.7) 	CG2 :: 21.44(1.39)
+
+G12	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	G 0.67   L 0.13   C 0.09   R 0.06   F 0.01   
+
+	C Shift Assignments>> 	CA :: 45	
+	Ave C Shift Values>> 	C :: 174.04(1.94) 	CA :: 45.33(1.42)
+
+P13	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	V 0.21   P 0.21   T 0.18   I 0.15   S 0.15   C 0.02   F 0.02   Y 0.01   
+
+	C Shift Assignments>> 	CA :: 63	
+	Ave C Shift Values>> 	C :: 176.7(1.69) 	CA :: 63.3(1.64) 	CB :: 31.81(1.54) 	CG :: 27.14(1.18) 	CD :: 50.28(1.04)
+
+C14	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	S 0.14   F 0.13   Y 0.12   C 0.11   E 0.09   R 0.07   K 0.06   Q 0.05   M 0.04   I 0.03   L 0.02   V 0.02   T 0.02   
+
+	C Shift Assignments>> 	CA :: 58.5	
+	Ave C Shift Values>> 	C :: 174.78(1.99) 	CA :: 57.43(3.41) 	CB :: 34.15(6.77)
+
+K15	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	D 0.19   L 0.11   N 0.11   A 0.1   M 0.09   C 0.07   Q 0.06   R 0.06   K 0.05   E 0.03   Y 0.03   F 0.03   S 0.01   
+
+	C Shift Assignments>> 	CA :: 54.5	
+	Ave C Shift Values>> 	C :: 176.46(2.05) 	CA :: 56.84(2.25) 	CB :: 32.83(1.88) 	CG :: 24.91(1.31) 	CD :: 28.78(1.39) 	CE :: 41.78(0.98)
+
+A16	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	A 0.87   M 0.1   C 0.01   
+
+	C Shift Assignments>> 	CA :: 50.5	 	CB :: 18.5	
+	Ave C Shift Values>> 	C :: 177.8(2.18) 	CA :: 53.16(2.06) 	CB :: 18.9(1.85)
+
+R17	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	N 0.24   A 0.21   D 0.15   L 0.08   M 0.06   C 0.06   Q 0.03   R 0.03   K 0.03   Y 0.02   F 0.02   E 0.01   
+
+	C Shift Assignments>> 	CA :: 53.5	
+	Ave C Shift Values>> 	C :: 176.49(2.16) 	CA :: 56.95(2.41) 	CB :: 30.66(1.77) 	CG :: 27.31(1.65) 	CD :: 43.1(1.1) 	CZ :: 159.01(0.87)
+
+I18	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	I 0.92   C 0.05   A 0.02   
+
+	C Shift Assignments>> 	CA :: 58.5	 	CG2 :: 17	 	CD1 :: 12.5	
+	Ave C Shift Values>> 	C :: 175.82(1.95) 	CA :: 61.59(2.78) 	CB :: 38.58(2.09) 	CG1 :: 27.65(2.32) 	CG2 :: 17.36(1.6) 	CD1 :: 13.41(1.91)
+
+I19	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	I 0.76   C 0.2   A 0.02   
+
+	C Shift Assignments>> 	CA :: 59.5	 	CG2 :: 16	 	CD1 :: 9	
+	Ave C Shift Values>> 	C :: 175.82(1.95) 	CA :: 61.59(2.78) 	CB :: 38.58(2.09) 	CG1 :: 27.65(2.32) 	CG2 :: 17.36(1.6) 	CD1 :: 13.41(1.91)
+
+R20	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	P 0.62   A 0.14   N 0.09   D 0.04   C 0.03   L 0.01   M 0.01   
+
+	C Shift Assignments>> 	CA :: 50.5	
+	Ave C Shift Values>> 	C :: 176.49(2.16) 	CA :: 56.95(2.41) 	CB :: 30.66(1.77) 	CG :: 27.31(1.65) 	CD :: 43.1(1.1) 	CZ :: 159.01(0.87)
+
+Y21	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	Y 0.99   
+
+	C Shift Assignments>> 	CA :: 56	 	CD1 :: 131.5	 	CD2 :: 131.5	 	CE1 :: 118	 	CE2 :: 118	
+	Ave C Shift Values>> 	C :: 175.39(1.89) 	CA :: 58.02(2.64) 	CB :: 39.16(2.23) 	CG :: 129.29(1.21) 	CD1 :: 132.54(1.35) 	CD2 :: 132.26(1.99)
+			 	CE1 :: 117.81(2.09) 	CE2 :: 117.91(2.6) 	CZ :: 156.37(2.5)
+
+F22	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	F 0.99   
+
+	C Shift Assignments>> 	CA :: 53.5	 	CD1 :: 132	 	CD2 :: 132	 	CE1 :: 130	 	CE2 :: 130	 	CZ :: 129	
+	Ave C Shift Values>> 	C :: 175.49(2.13) 	CA :: 58.25(2.73) 	CB :: 39.95(2.04) 	CG :: 138.35(1.12) 	CD1 :: 131.38(1.38) 	CD2 :: 131.33(1.48)
+			 	CE1 :: 130.48(1.29) 	CE2 :: 130.6(0.97) 	CZ :: 129.11(1.68)
+
+Y23	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	Y 0.99   
+
+	C Shift Assignments>> 	CA :: 58	 	CD1 :: 132	 	CD2 :: 132	 	CE1 :: 116.5	 	CE2 :: 116.5	
+	Ave C Shift Values>> 	C :: 175.39(1.89) 	CA :: 58.02(2.64) 	CB :: 39.16(2.23) 	CG :: 129.29(1.21) 	CD1 :: 132.54(1.35) 	CD2 :: 132.26(1.99)
+			 	CE1 :: 117.81(2.09) 	CE2 :: 117.91(2.6) 	CZ :: 156.37(2.5)
+
+N24	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	P 0.64   A 0.12   C 0.08   N 0.06   G 0.02   D 0.02   
+
+	C Shift Assignments>> 	CA :: 49	
+	Ave C Shift Values>> 	C :: 175.16(1.76) 	CA :: 53.43(1.94) 	CB :: 38.66(1.78) 	CG :: 176.61(1.33)
+
+A25	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	A 0.63   M 0.33   C 0.01   
+
+	C Shift Assignments>> 	CA :: 53	 	CB :: 17.5	
+	Ave C Shift Values>> 	C :: 177.8(2.18) 	CA :: 53.16(2.06) 	CB :: 18.9(1.85)
+
+K26	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	R 0.11   K 0.11   C 0.1   Q 0.1   E 0.1   M 0.08   Y 0.08   F 0.07   L 0.06   S 0.05   D 0.02   I 0.01   
+
+	C Shift Assignments>> 	CA :: 57	
+	Ave C Shift Values>> 	C :: 176.46(2.05) 	CA :: 56.84(2.25) 	CB :: 32.83(1.88) 	CG :: 24.91(1.31) 	CD :: 28.78(1.39) 	CE :: 41.78(0.98)
+
+A27	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	A 0.88   M 0.09   C 0.02   
+
+	C Shift Assignments>> 	CA :: 50.5	 	CB :: 19	
+	Ave C Shift Values>> 	C :: 177.8(2.18) 	CA :: 53.16(2.06) 	CB :: 18.9(1.85)
+
+G28	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	G 0.45   L 0.2   R 0.16   C 0.1   F 0.02   D 0.01   Y 0.01   
+
+	C Shift Assignments>> 	CA :: 44.5	
+	Ave C Shift Values>> 	C :: 174.04(1.94) 	CA :: 45.33(1.42)
+
+L29	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	L 0.52   C 0.34   A 0.13   
+
+	C Shift Assignments>> 	CA :: 52	 	CG :: 24.5	 	CD1 :: 23.5	 	CD2 :: 23.5	
+	Ave C Shift Values>> 	C :: 176.97(2.09) 	CA :: 55.65(2.21) 	CB :: 42.37(1.86) 	CG :: 26.77(1.25) 	CD1 :: 24.73(1.71) 	CD2 :: 24.1(1.78)
+
+C30	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	C 0.62   G 0.31   L 0.05   
+
+	C Shift Assignments>> 	CA :: 56.5	 	CB :: 48	
+	Ave C Shift Values>> 	C :: 174.78(1.99) 	CA :: 57.43(3.41) 	CB :: 34.15(6.77)
+
+Q31	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	A 0.3   N 0.25   D 0.13   L 0.06   C 0.06   M 0.04   R 0.02   Q 0.02   K 0.02   Y 0.01   F 0.01   P 0.01   E 0.01   
+
+	C Shift Assignments>> 	CA :: 52.5	
+	Ave C Shift Values>> 	C :: 176.39(1.96) 	CA :: 56.62(2.19) 	CB :: 29.1(1.97) 	CG :: 33.72(1.1) 	CD :: 179.68(1.17)
+
+T32	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	T 0.83   C 0.16   
+
+	C Shift Assignments>> 	CA :: 59.5	 	CB :: 71	 	CG2 :: 21	
+	Ave C Shift Values>> 	C :: 174.6(1.8) 	CA :: 62.15(2.72) 	CB :: 69.64(1.7) 	CG2 :: 21.44(1.39)
+
+F33	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	F 0.99   
+
+	C Shift Assignments>> 	CD1 :: 132.5	 	CD2 :: 132.5	 	CE1 :: 130	 	CE2 :: 130	 	CZ :: 128	
+	Ave C Shift Values>> 	C :: 175.49(2.13) 	CA :: 58.25(2.73) 	CB :: 39.95(2.04) 	CG :: 138.35(1.12) 	CD1 :: 131.38(1.38) 	CD2 :: 131.33(1.48)
+			 	CE1 :: 130.48(1.29) 	CE2 :: 130.6(0.97) 	CZ :: 129.11(1.68)
+
+V34	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	V 0.57   C 0.42   
+
+	C Shift Assignments>> 	CA :: 61	 	CB :: 30.5	 	CG1 :: 20	 	CG2 :: 21	
+	Ave C Shift Values>> 	C :: 175.69(2.03) 	CA :: 62.48(3.04) 	CB :: 32.66(1.91) 	CG1 :: 21.38(1.53) 	CG2 :: 21.31(1.76)
+
+Y35	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	Y 0.99   
+
+	C Shift Assignments>> 	CD1 :: 132.5	 	CD2 :: 132.5	 	CE1 :: 117	 	CE2 :: 119.5	
+	Ave C Shift Values>> 	C :: 175.39(1.89) 	CA :: 58.02(2.64) 	CB :: 39.16(2.23) 	CG :: 129.29(1.21) 	CD1 :: 132.54(1.35) 	CD2 :: 132.26(1.99)
+			 	CE1 :: 117.81(2.09) 	CE2 :: 117.91(2.6) 	CZ :: 156.37(2.5)
+
+G36	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	R 0.28   L 0.26   G 0.24   C 0.1   D 0.03   F 0.03   Y 0.02   K 0.01   
+
+	C Shift Assignments>> 	CA :: 44	
+	Ave C Shift Values>> 	C :: 174.04(1.94) 	CA :: 45.33(1.42)
+
+G37	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	R 0.28   L 0.26   G 0.24   C 0.1   D 0.03   F 0.03   Y 0.02   K 0.01   
+
+	C Shift Assignments>> 	CA :: 44	
+	Ave C Shift Values>> 	C :: 174.04(1.94) 	CA :: 45.33(1.42)
+
+C38	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	D 0.18   N 0.17   A 0.15   L 0.1   M 0.07   C 0.07   Q 0.05   R 0.04   K 0.04   Y 0.02   F 0.02   E 0.02   
+
+	C Shift Assignments>> 	CA :: 54	
+	Ave C Shift Values>> 	C :: 174.78(1.99) 	CA :: 57.43(3.41) 	CB :: 34.15(6.77)
+
+R39	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	D 0.14   L 0.13   M 0.1   C 0.08   Q 0.08   R 0.07   N 0.07   K 0.07   A 0.06   E 0.04   Y 0.04   F 0.04   S 0.01   
+
+	C Shift Assignments>> 	CA :: 55	
+	Ave C Shift Values>> 	C :: 176.49(2.16) 	CA :: 56.95(2.41) 	CB :: 30.66(1.77) 	CG :: 27.31(1.65) 	CD :: 43.1(1.1) 	CZ :: 159.01(0.87)
+
+A40	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	A 0.75   M 0.22   C 0.01   
+
+	C Shift Assignments>> 	CA :: 52.5	 	CB :: 18.5	
+	Ave C Shift Values>> 	C :: 177.8(2.18) 	CA :: 53.16(2.06) 	CB :: 18.9(1.85)
+
+K41	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	D 0.18   N 0.17   A 0.15   L 0.1   M 0.07   C 0.07   Q 0.05   R 0.04   K 0.04   Y 0.02   F 0.02   E 0.02   
+
+	C Shift Assignments>> 	CA :: 54	
+	Ave C Shift Values>> 	C :: 176.46(2.05) 	CA :: 56.84(2.25) 	CB :: 32.83(1.88) 	CG :: 24.91(1.31) 	CD :: 28.78(1.39) 	CE :: 41.78(0.98)
+
+R42	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	K 0.2   Q 0.19   C 0.16   E 0.13   L 0.1   I 0.08   R 0.07   M 0.01   
+
+	C Shift Assignments>> 	CA :: 57.5	 	CB :: 28	
+	Ave C Shift Values>> 	C :: 176.49(2.16) 	CA :: 56.95(2.41) 	CB :: 30.66(1.77) 	CG :: 27.31(1.65) 	CD :: 43.1(1.1) 	CZ :: 159.01(0.87)
+
+N43	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	P 0.8   C 0.12   M 0.03   
+
+	C Shift Assignments>> 	CA :: 49.5	 	CB :: 33.5	
+	Ave C Shift Values>> 	C :: 175.16(1.76) 	CA :: 53.43(1.94) 	CB :: 38.66(1.78) 	CG :: 176.61(1.33)
+
+N44	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	A 0.3   N 0.25   D 0.13   L 0.06   C 0.06   M 0.04   R 0.02   Q 0.02   K 0.02   Y 0.01   F 0.01   P 0.01   E 0.01   
+
+	C Shift Assignments>> 	CA :: 52.5	
+	Ave C Shift Values>> 	C :: 175.16(1.76) 	CA :: 53.43(1.94) 	CB :: 38.66(1.78) 	CG :: 176.61(1.33)
+
+F45	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	Y 0.5   F 0.49   
+
+	C Shift Assignments>> 	CA :: 54.5	 	CZ :: 129	
+	Ave C Shift Values>> 	C :: 175.49(2.13) 	CA :: 58.25(2.73) 	CB :: 39.95(2.04) 	CG :: 138.35(1.12) 	CD1 :: 131.38(1.38) 	CD2 :: 131.33(1.48)
+			 	CE1 :: 130.48(1.29) 	CE2 :: 130.6(0.97) 	CZ :: 129.11(1.68)
+
+K46	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	Q 0.12   M 0.11   K 0.11   R 0.1   C 0.09   L 0.08   E 0.08   Y 0.07   F 0.06   D 0.04   S 0.04   N 0.01   A 0.01   
+
+	C Shift Assignments>> 	CA :: 56.5	
+	Ave C Shift Values>> 	C :: 176.46(2.05) 	CA :: 56.84(2.25) 	CB :: 32.83(1.88) 	CG :: 24.91(1.31) 	CD :: 28.78(1.39) 	CE :: 41.78(0.98)
+
+S47	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	S 0.98   T 0.01   
+
+	C Shift Assignments>> 	CA :: 54.5	 	CB :: 65.5	
+	Ave C Shift Values>> 	C :: 174.53(1.73) 	CA :: 58.57(2.12) 	CB :: 63.8(1.57)
+
+A48	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	M 0.61   A 0.35   C 0.01   I 0.01   
+
+	C Shift Assignments>> 	CA :: 53.5	 	CB :: 16	
+	Ave C Shift Values>> 	C :: 177.8(2.18) 	CA :: 53.16(2.06) 	CB :: 18.9(1.85)
+
+E49	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	S 0.14   F 0.13   Y 0.12   C 0.11   E 0.08   R 0.06   I 0.06   K 0.05   Q 0.04   V 0.04   T 0.04   M 0.03   L 0.02   
+
+	C Shift Assignments>> 	CA :: 59	
+	Ave C Shift Values>> 	C :: 176.93(2.11) 	CA :: 57.42(2.19) 	CB :: 30.07(1.84) 	CG :: 36.01(1.51) 	CD :: 181.94(1.85)
+
+D50	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	M 0.13   L 0.12   Q 0.1   K 0.09   R 0.09   C 0.09   E 0.07   D 0.06   Y 0.06   F 0.05   S 0.03   N 0.02   A 0.02   
+
+	C Shift Assignments>> 	CA :: 56	
+	Ave C Shift Values>> 	C :: 176.41(1.77) 	CA :: 54.52(2.1) 	CB :: 40.7(1.67) 	CG :: 178.41(1.84)
+
+C51	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	C 0.12   E 0.12   Y 0.1   R 0.1   F 0.09   K 0.09   Q 0.08   S 0.07   M 0.07   L 0.05   D 0.01   I 0.01   V 0.01   T 0.01   
+
+	C Shift Assignments>> 	CA :: 57.5	
+	Ave C Shift Values>> 	C :: 174.78(1.99) 	CA :: 57.43(3.41) 	CB :: 34.15(6.77)
+
+M52	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	M 0.85   I 0.07   A 0.06   C 0.01   
+
+	C Shift Assignments>> 	CA :: 55.5	 	CE :: 15	
+	Ave C Shift Values>> 	C :: 176.3(2.13) 	CA :: 56.16(2.34) 	CB :: 32.9(2.23) 	CG :: 32.07(1.45) 	CE :: 17.21(3.42)
+
+R53	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	Y 0.13   F 0.12   C 0.11   E 0.1   S 0.1   R 0.08   K 0.08   Q 0.07   M 0.05   L 0.03   I 0.02   V 0.01   T 0.01   D 0.01   
+
+	C Shift Assignments>> 	CA :: 58	
+	Ave C Shift Values>> 	C :: 176.49(2.16) 	CA :: 56.95(2.41) 	CB :: 30.66(1.77) 	CG :: 27.31(1.65) 	CD :: 43.1(1.1) 	CZ :: 159.01(0.87)
+
+T54	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	T 0.97   C 0.02   
+
+	C Shift Assignments>> 	CA :: 65	 	CB :: 68	 	CG2 :: 21	
+	Ave C Shift Values>> 	C :: 174.6(1.8) 	CA :: 62.15(2.72) 	CB :: 69.64(1.7) 	CG2 :: 21.44(1.39)
+
+C55	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	A 0.28   N 0.25   D 0.14   L 0.06   C 0.05   M 0.05   R 0.03   Q 0.02   K 0.02   Y 0.01   F 0.01   E 0.01   
+
+	C Shift Assignments>> 	CA :: 53	
+	Ave C Shift Values>> 	C :: 174.78(1.99) 	CA :: 57.43(3.41) 	CB :: 34.15(6.77)
+
+G56	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	G 0.67   L 0.13   C 0.09   R 0.06   F 0.01   
+
+	C Shift Assignments>> 	CA :: 45	
+	Ave C Shift Values>> 	C :: 174.04(1.94) 	CA :: 45.33(1.42)
+
+G57	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	R 0.36   L 0.27   G 0.1   C 0.08   D 0.04   F 0.04   K 0.04   Y 0.02   
+
+	C Shift Assignments>> 	CA :: 43.5	
+	Ave C Shift Values>> 	C :: 174.04(1.94) 	CA :: 45.33(1.42)
+
+A58	Overall: Consistent 	Typing: Consistent 	SRO: Consistent 	C Shifts: Consistent 	H Shifts: Indeterminable 	N Shifts: Indeterminable
+
+	PRTL>>	A 0.7   M 0.26   C 0.02   
+
+	C Shift Assignments>> 	CA :: 53	 	CB :: 18.5	
+	Ave C Shift Values>> 	C :: 177.8(2.18) 	CA :: 53.16(2.06) 	CB :: 18.9(1.85)
+
+
+
+###########################################################################
+
+Overall Results:
+
+	      #Consistent:  58      #Clerical:   0      #Suspicious:   0      #Anomalous:   0      #Mistyped:   0      #Indeterminable:   0
+
+
+Typing Results:
+
+	      #Consistent:  57      #Suspicious:   0      #Mistyped:   0      #Indeterminable:   1
+
+
+Shift Relative Order (SRO) Results:
+
+	      #Consistent:  58      #Suspicious:   0
+
+
+C Shift Results:
+
+	      #Consistent: 120      #Duplicate:   0      #Unknown:   0      #Suspicious:   0      #Anomalous:   0
+
+
+H Shift Results:
+
+	      #Consistent:   0      #Duplicate:   0      #Unknown:   0      #Suspicious:   0      #Anomalous:   0
+
+
+N Shift Results:
+
+	      #Consistent:   0      #Duplicate:   0      #Unknown:   0      #Suspicious:   0      #Anomalous:   0
